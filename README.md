@@ -1,3 +1,3 @@
 # R_Examples
 
-Example R projects are in the R_Examples repository.
+Example R projects and homework are in the R_Examples repository.
